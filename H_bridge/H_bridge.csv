@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+"1u","C1,C2,C3,C4,C5,C6,C7,C8,C9","Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm","C94708"
+"Conn_01x10_Pin","J1,J2","Connector_JST:JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical",""
+"Conn_01x05","J4","Connector_Wire:SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm",""
+"Conn_01x03","J5","Connector_Wire:SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm",""
+"Conn_Coaxial","J6,J7,J8,J9,J10,J11,J12,J13,J14","Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal",""
+"IRF9610","Q1,Q2,Q5,Q7,Q9,Q11","Package_TO_SOT_THT:TO-220-3_Vertical","C335250"
+"2N7000","Q3,Q4,Q6,Q8,Q10,Q12","Package_TO_SOT_THT:TO-92_Inline","C9114"
+"100k","R1,R2,R3,R4,R5,R6,R7,R8,R9","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",""
+"IRF510","U1,U2,U4,U5,U6,U7","Package_TO_SOT_THT:TO-220-3_Vertical","C727603"
+"SN74ACT04N","U3","Package_DIP:DIP-14_W7.62mm_Socket_LongPads",""

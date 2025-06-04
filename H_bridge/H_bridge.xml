@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/yyz/Library/Mobile Documents/com~apple~CloudDocs/Mueller_Lab/bias_coil_pcb/H_bridge/H_bridge.kicad_sch</source>
+    <date>2025-06-03T18:33:13-0700</date>
+    <tool>Eeschema 9.0.0</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>???</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>H_bridge.kicad_sch</source>
+        <comment number="1" value="Designed by Jack Roth"/>
+        <comment number="2" value="Compatible with Hammond Manufacturing series 1457"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C94708</field>
+        <field name="Footprint">Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C94708"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27bde3ec-5baa-4470-888f-bf8de75bccb6</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C94708</field>
+        <field name="Footprint">Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C94708"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae0411db-5154-481c-87e1-508c45e94d0b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C94708</field>
+        <field name="Footprint">Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C94708"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74e5997b-adac-472d-bb34-1929d6852160</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C94708</field>
+        <field name="Footprint">Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C94708"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5968e66d-f20a-4eb8-981d-ca62e0c10b6f</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C94708</field>
+        <field name="Footprint">Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C94708"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ed2e468-f753-4184-82b6-c71637c9b960</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1u</value>
+      <footprint>Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C94708</field>
+        <field name="Footprint">Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C94708"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7abd2abc-3ab6-433e-964c-ace11c668d28</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1u</value>
+      <footprint>Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C94708</field>
+        <field name="Footprint">Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C94708"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46a3b5e6-5f9a-4be9-8724-c1d4e37fca6b</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C94708</field>
+        <field name="Footprint">Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C94708"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd368451-eddc-497e-a9b1-850b1cdfb079</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <footprint>Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="LCSC">C94708</field>
+        <field name="Footprint">Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C94708"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5972b802-db78-46b5-ab40-5b59ac251f91</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x10_Pin</value>
+      <footprint>Connector_JST:JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical</footprint>
+      <description>Generic connector, single row, 01x10, script generated</description>
+      <fields>
+        <field name="Digikey PN">455-S10B-ZR-ND</field>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_JST:JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x10, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x10_Pin" description="Generic connector, single row, 01x10, script generated"/>
+      <property name="Digikey PN" value="455-S10B-ZR-ND"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e77906c-6996-472c-a888-f06777731127</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x10_Pin</value>
+      <footprint>Connector_JST:JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical</footprint>
+      <description>Generic connector, single row, 01x10, script generated</description>
+      <fields>
+        <field name="Digikey PN">455-S10B-ZR-ND</field>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_JST:JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x10, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x10_Pin" description="Generic connector, single row, 01x10, script generated"/>
+      <property name="Digikey PN" value="455-S10B-ZR-ND"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f27ae907-f174-4867-825c-a72aa5ccb163</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x05</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm</footprint>
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Wire:SolderWire-0.75sqmm_1x05_P4.8mm_D1.25mm_OD2.3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f692c77-7a62-4ff4-9852-2751ae6ea4e1</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x03</value>
+      <footprint>Connector_Wire:SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm</footprint>
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Wire:SolderWire-0.75sqmm_1x03_P4.8mm_D1.25mm_OD2.3mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36f40324-3d16-4b82-8cb9-d987da22b9be</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7dfd14b-6a0a-4d39-8f61-2da52711523a</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10a5d9d3-bcc7-4bf3-909f-5f2198efecdf</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1e907dc-5839-46f3-a7e1-a3e00b0c0256</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7186c3a-fcec-4d54-b116-bc9ce9edf81c</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac648ec5-9e3f-4b4c-8e3a-f5eb09877ac8</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08f2192c-81fa-49c9-bc4a-84554a617371</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17f75a0b-c780-4b1d-9b87-9438a1d236b1</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c54d0ad-394f-47c9-9524-d0360f33734f</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</footprint>
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Connector_Coaxial:SMA_Molex_73251-1153_EdgeMount_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial_Power" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed75e386-ab06-476b-9c4f-c2b4daf3615b</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IRF9610</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <description>P-MOSFET transistor, drain/gate/source</description>
+      <fields>
+        <field name="LCSC">C335250</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">P-MOSFET transistor, drain/gate/source</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="Q_PMOS_DGS" description="P-MOSFET transistor, drain/gate/source"/>
+      <property name="LCSC" value="C335250"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d07a503-b0fc-46b7-ad2e-9988616b2508</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>IRF9610</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <description>P-MOSFET transistor, drain/gate/source</description>
+      <fields>
+        <field name="LCSC">C335250</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">P-MOSFET transistor, drain/gate/source</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="Q_PMOS_DGS" description="P-MOSFET transistor, drain/gate/source"/>
+      <property name="LCSC" value="C335250"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6ebd06d-e45e-40c5-a6a1-e11efc5bcee8</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>2N7000</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.vishay.com/docs/70226/70226.pdf</datasheet>
+      <description>0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</description>
+      <fields>
+        <field name="LCSC">C9114</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.vishay.com/docs/70226/70226.pdf</field>
+        <field name="Description">0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7000" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="LCSC" value="C9114"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <property name="ki_fp_filters" value="TO?92*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da259f42-5a74-406e-8e96-7bb02ac92f8e</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>2N7000</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.vishay.com/docs/70226/70226.pdf</datasheet>
+      <description>0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</description>
+      <fields>
+        <field name="LCSC">C9114</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.vishay.com/docs/70226/70226.pdf</field>
+        <field name="Description">0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7000" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="LCSC" value="C9114"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <property name="ki_fp_filters" value="TO?92*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01aaba06-b372-41fb-8040-2ff7f16a1427</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>IRF9610</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <description>P-MOSFET transistor, drain/gate/source</description>
+      <fields>
+        <field name="LCSC">C335250</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">P-MOSFET transistor, drain/gate/source</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="Q_PMOS_DGS" description="P-MOSFET transistor, drain/gate/source"/>
+      <property name="LCSC" value="C335250"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b802423-0b38-49d8-b4f8-e1e3bf0fcad2</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>2N7000</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.vishay.com/docs/70226/70226.pdf</datasheet>
+      <description>0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</description>
+      <fields>
+        <field name="LCSC">C9114</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.vishay.com/docs/70226/70226.pdf</field>
+        <field name="Description">0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7000" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="LCSC" value="C9114"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <property name="ki_fp_filters" value="TO?92*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39ebc979-b497-441d-9bff-cddfd473eb76</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>IRF9610</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <description>P-MOSFET transistor, drain/gate/source</description>
+      <fields>
+        <field name="LCSC">C335250</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">P-MOSFET transistor, drain/gate/source</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="Q_PMOS_DGS" description="P-MOSFET transistor, drain/gate/source"/>
+      <property name="LCSC" value="C335250"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd78efa2-bade-4624-a035-f5d8b06513e1</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>2N7000</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.vishay.com/docs/70226/70226.pdf</datasheet>
+      <description>0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</description>
+      <fields>
+        <field name="LCSC">C9114</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.vishay.com/docs/70226/70226.pdf</field>
+        <field name="Description">0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7000" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="LCSC" value="C9114"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <property name="ki_fp_filters" value="TO?92*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04e61c0c-ea1c-4b94-9f63-4b46714f3128</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>IRF9610</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <description>P-MOSFET transistor, drain/gate/source</description>
+      <fields>
+        <field name="LCSC">C335250</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">P-MOSFET transistor, drain/gate/source</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="Q_PMOS_DGS" description="P-MOSFET transistor, drain/gate/source"/>
+      <property name="LCSC" value="C335250"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4834ca0a-27f0-4b41-80c8-7b0063ab4722</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>2N7000</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.vishay.com/docs/70226/70226.pdf</datasheet>
+      <description>0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</description>
+      <fields>
+        <field name="LCSC">C9114</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.vishay.com/docs/70226/70226.pdf</field>
+        <field name="Description">0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7000" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="LCSC" value="C9114"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <property name="ki_fp_filters" value="TO?92*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0e7e908-6a5e-4e98-b18e-492faf04371b</tstamps>
+    </comp>
+    <comp ref="Q11">
+      <value>IRF9610</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <description>P-MOSFET transistor, drain/gate/source</description>
+      <fields>
+        <field name="LCSC">C335250</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">P-MOSFET transistor, drain/gate/source</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="Q_PMOS_DGS" description="P-MOSFET transistor, drain/gate/source"/>
+      <property name="LCSC" value="C335250"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52e15413-1137-4795-8446-9b8dc8e58f7d</tstamps>
+    </comp>
+    <comp ref="Q12">
+      <value>2N7000</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.vishay.com/docs/70226/70226.pdf</datasheet>
+      <description>0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</description>
+      <fields>
+        <field name="LCSC">C9114</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.vishay.com/docs/70226/70226.pdf</field>
+        <field name="Description">0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7000" description="0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="LCSC" value="C9114"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="N-Channel MOSFET Logic-Level"/>
+      <property name="ki_fp_filters" value="TO?92*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0c3513f-0e4e-48dc-85d3-176ddaa68383</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94aed211-6576-40fe-ab25-6257cfecf7dd</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d658a5bf-1400-4c55-84ce-c55b30c00d32</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d8aabe8-7e56-4f6c-b2f6-2fdb2c14e8e3</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ccf90a2-af60-47ec-85d1-c1529a2647c1</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6da93162-3632-4780-9408-325e918366f3</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>926ad94f-79f3-4430-a72f-119e0082a39d</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>974b7577-43c5-4e54-b9c8-8aa4320bfa79</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cea834c7-06ad-4f11-98ad-13d31173bb6c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="LCSC"/>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc549f3c-da96-44b3-934d-495d37a05171</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>IRF510</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.vishay.com/docs/91017/91017.pdf</datasheet>
+      <fields>
+        <field name="Digi-Key Part Number">IRF520PBF-ND</field>
+        <field name="LCSC">C727603</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.vishay.com/docs/91017/91017.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="matterwaves_symbol" part="IRF520" description=""/>
+      <property name="Digi-Key Part Number" value="IRF520PBF-ND"/>
+      <property name="LCSC" value="C727603"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_fp_filters" value="Package_TO_SOT_THT:TO-220"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41346792-b6c3-4128-9173-cc387d54baa4</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>IRF510</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.vishay.com/docs/91017/91017.pdf</datasheet>
+      <fields>
+        <field name="Digi-Key Part Number">IRF520PBF-ND</field>
+        <field name="LCSC">C727603</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.vishay.com/docs/91017/91017.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="matterwaves_symbol" part="IRF520" description=""/>
+      <property name="Digi-Key Part Number" value="IRF520PBF-ND"/>
+      <property name="LCSC" value="C727603"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_fp_filters" value="Package_TO_SOT_THT:TO-220"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5265dd7d-9a0d-4a43-a23e-5a8920f8c311</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SN74ACT04N</value>
+      <footprint>Package_DIP:DIP-14_W7.62mm_Socket_LongPads</footprint>
+      <fields>
+        <field name="MF">Texas Instruments</field>
+        <field name="Description_1">6-ch, 4.5-V to 5.5-V inverters with TTL-compatible CMOS inputs</field>
+        <field name="Package">PDIP-14 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SN74HCT04N/Texas+Instruments/view-part/?ref=snap</field>
+        <field name="MP">SN74HCT04N</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SN74HCT04N/Texas+Instruments/view-part/?ref=eda</field>
+        <field name="LCSC"/>
+        <field name="Footprint">Package_DIP:DIP-14_W7.62mm_Socket_LongPads</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="not_gate" part="SN74HCT04N" description=""/>
+      <property name="MF" value="Texas Instruments"/>
+      <property name="Description_1" value="6-ch, 4.5-V to 5.5-V inverters with TTL-compatible CMOS inputs"/>
+      <property name="Package" value="PDIP-14 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SN74HCT04N/Texas+Instruments/view-part/?ref=snap"/>
+      <property name="MP" value="SN74HCT04N"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SN74HCT04N/Texas+Instruments/view-part/?ref=eda"/>
+      <property name="LCSC" value=""/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ba67b27-109f-4d0a-be8b-f93ca35af7d7</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>IRF510</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.vishay.com/docs/91017/91017.pdf</datasheet>
+      <fields>
+        <field name="Digi-Key Part Number">IRF520PBF-ND</field>
+        <field name="LCSC">C727603</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.vishay.com/docs/91017/91017.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="matterwaves_symbol" part="IRF520" description=""/>
+      <property name="Digi-Key Part Number" value="IRF520PBF-ND"/>
+      <property name="LCSC" value="C727603"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_fp_filters" value="Package_TO_SOT_THT:TO-220"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2c72b83-c125-414d-8e15-a294f9f7cc4f</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>IRF510</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.vishay.com/docs/91017/91017.pdf</datasheet>
+      <fields>
+        <field name="Digi-Key Part Number">IRF520PBF-ND</field>
+        <field name="LCSC">C727603</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.vishay.com/docs/91017/91017.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="matterwaves_symbol" part="IRF520" description=""/>
+      <property name="Digi-Key Part Number" value="IRF520PBF-ND"/>
+      <property name="LCSC" value="C727603"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_fp_filters" value="Package_TO_SOT_THT:TO-220"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e2608df-1ace-424a-8400-25b6dbfece73</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>IRF510</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.vishay.com/docs/91017/91017.pdf</datasheet>
+      <fields>
+        <field name="Digi-Key Part Number">IRF520PBF-ND</field>
+        <field name="LCSC">C727603</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.vishay.com/docs/91017/91017.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="matterwaves_symbol" part="IRF520" description=""/>
+      <property name="Digi-Key Part Number" value="IRF520PBF-ND"/>
+      <property name="LCSC" value="C727603"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_fp_filters" value="Package_TO_SOT_THT:TO-220"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>594458dc-4cc7-492b-80c6-4119a5c6138f</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>IRF510</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.vishay.com/docs/91017/91017.pdf</datasheet>
+      <fields>
+        <field name="Digi-Key Part Number">IRF520PBF-ND</field>
+        <field name="LCSC">C727603</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.vishay.com/docs/91017/91017.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="matterwaves_symbol" part="IRF520" description=""/>
+      <property name="Digi-Key Part Number" value="IRF520PBF-ND"/>
+      <property name="LCSC" value="C727603"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="H_bridge.kicad_sch"/>
+      <property name="ki_fp_filters" value="Package_TO_SOT_THT:TO-220"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e43fa559-f6fe-4523-a50c-d2374bf246eb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x10_Pin">
+      <description>Generic connector, single row, 01x10, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x10, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial_Power">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial_Power</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+    </libpart>
+    <libpart lib="Transistor_FET" part="2N7000">
+      <description>0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</description>
+      <docs>https://www.vishay.com/docs/70226/70226.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7000</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.vishay.com/docs/70226/70226.pdf</field>
+        <field name="Description">0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="Q_PMOS_DGS">
+      <description>P-MOSFET transistor, drain/gate/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q2</field>
+        <field name="Value">IRF9610</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">P-MOSFET transistor, drain/gate/source</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="matterwaves_symbol" part="IRF520">
+      <docs>https://www.vishay.com/docs/91017/91017.pdf</docs>
+      <footprints>
+        <fp>Package_TO_SOT_THT:TO-220</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IRF520</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://www.vishay.com/docs/91017/91017.pdf</field>
+        <field name="Description"/>
+        <field name="Digi-Key Part Number">IRF520PBF-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="not_gate" part="SN74HCT04N">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74HCT04N</field>
+        <field name="Footprint">SN74HCT04N:DIP794W45P254L1969H508Q14</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Texas Instruments</field>
+        <field name="Description_1">6-ch, 4.5-V to 5.5-V inverters with TTL-compatible CMOS inputs</field>
+        <field name="Package">PDIP-14 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SN74HCT04N/Texas+Instruments/view-part/?ref=snap</field>
+        <field name="MP">SN74HCT04N</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SN74HCT04N/Texas+Instruments/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="input"/>
+        <pin num="2" name="1Y" type="output"/>
+        <pin num="3" name="2A" type="input"/>
+        <pin num="4" name="2Y" type="output"/>
+        <pin num="5" name="3A" type="input"/>
+        <pin num="6" name="3Y" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="4Y" type="output"/>
+        <pin num="9" name="4A" type="input"/>
+        <pin num="10" name="5Y" type="output"/>
+        <pin num="11" name="5A" type="input"/>
+        <pin num="12" name="6Y" type="output"/>
+        <pin num="13" name="6A" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_FET.kicad_sym</uri>
+    </library>
+    <library logical="matterwaves_symbol">
+      <uri>/Users/yyz/Library/Mobile Documents/com~apple~CloudDocs/Mueller_Lab/KiCad/symbol_footprint_libs/matterwaves_symbol.kicad_sym</uri>
+    </library>
+    <library logical="not_gate">
+      <uri>/Users/yyz/Library/Mobile Documents/com~apple~CloudDocs/Mueller_Lab/KiCad/SN74HCT04N/SN74HCT04N.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V" class="Default">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="+12V" class="Default">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="3" name="-5V" class="Default">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="4" name="-12V" class="Default">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="5" name="/1A" class="Default">
+      <node ref="J6" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="1A" pintype="input"/>
+    </net>
+    <net code="6" name="/1Y" class="Default">
+      <node ref="Q3" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="U3" pin="2" pinfunction="1Y" pintype="output"/>
+    </net>
+    <net code="7" name="/2A" class="Default">
+      <node ref="J9" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="2A" pintype="input"/>
+    </net>
+    <net code="8" name="/2Y" class="Default">
+      <node ref="Q8" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="2Y" pintype="output"/>
+    </net>
+    <net code="9" name="/3A" class="Default">
+      <node ref="J12" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q10" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="3A" pintype="input"/>
+    </net>
+    <net code="10" name="/3Y" class="Default">
+      <node ref="Q12" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="3Y" pintype="output"/>
+    </net>
+    <net code="11" name="/I2C_SCL" class="Default">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="12" name="/I2C_SDA" class="Default">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="13" name="/logic10" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="14" name="/logic11" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="15" name="/logic20" class="Default">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q7" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="16" name="/logic21" class="Default">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="Q8" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="17" name="/logic30" class="Default">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="Q10" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q11" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="18" name="/logic31" class="Default">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="Q12" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q9" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="19" name="GND" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="Q10" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="Q12" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="Q8" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="5A" pintype="input"/>
+      <node ref="U3" pin="13" pinfunction="6A" pintype="input"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="4A" pintype="input"/>
+    </net>
+    <net code="20" name="GNDS" class="Default">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(J8-Ext)" class="Default">
+      <node ref="J8" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(J8-In)" class="Default">
+      <node ref="J8" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(J11-Ext)" class="Default">
+      <node ref="J11" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="Q7" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J11-In)" class="Default">
+      <node ref="J11" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J14-Ext)" class="Default">
+      <node ref="J14" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="Q11" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(J14-In)" class="Default">
+      <node ref="J14" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q9" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="27" name="VCC1" class="Default">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="VCC2" class="Default">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q7" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="VCC3" class="Default">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="Q11" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q9" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="VDD1" class="Default">
+      <node ref="J7" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="31" name="VDD2" class="Default">
+      <node ref="J10" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="32" name="VDD3" class="Default">
+      <node ref="J13" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="33" name="unconnected-(U3-4Y-Pad8)" class="Default">
+      <node ref="U3" pin="8" pinfunction="4Y" pintype="output"/>
+    </net>
+    <net code="34" name="unconnected-(U3-5Y-Pad10)" class="Default">
+      <node ref="U3" pin="10" pinfunction="5Y" pintype="output"/>
+    </net>
+    <net code="35" name="unconnected-(U3-6Y-Pad12)" class="Default">
+      <node ref="U3" pin="12" pinfunction="6Y" pintype="output"/>
+    </net>
+  </nets>
+</export>
