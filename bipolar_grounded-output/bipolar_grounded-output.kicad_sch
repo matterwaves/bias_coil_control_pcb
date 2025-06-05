@@ -3521,9 +3521,9 @@
 		)
 		(uuid "5df94a06-ba01-4ec8-aeab-49266c49f4ab")
 	)
-	(text "Zener diode clamp the control voltage within -+4V to restrict over-current\nWarning: J8 should not be grounded!"
+	(text "Zener diode clamp the control voltage within -+4V to restrict over-current"
 		(exclude_from_sim no)
-		(at 15.494 25.4 0)
+		(at 15.494 21.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3574,6 +3574,17 @@
 			(justify left bottom)
 		)
 		(uuid "911370e2-a4d5-4cad-9d14-6f9606b1c248")
+	)
+	(text "Can change to AD621 for more precise control (with Gain 10 or 100)"
+		(exclude_from_sim no)
+		(at 14.986 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "93bf3b6e-ec31-420e-ba3a-53baf2871769")
 	)
 	(text "Current monitor"
 		(exclude_from_sim no)
