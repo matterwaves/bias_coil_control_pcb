@@ -5,8 +5,8 @@
 	(uuid "9c6abd11-1aac-4f08-8b79-cac116854bcb")
 	(paper "A4")
 	(title_block
-		(title "???")
-		(comment 1 "Designed by Jack Roth")
+		(title "Bipolar current control (grounded output)")
+		(company "Mueller Group, UC Berkeley")
 		(comment 2 "Compatible with Hammond Manufacturing series 1457")
 	)
 	(lib_symbols
@@ -4837,79 +4837,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 169.545 125.095 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2146dd09-149f-4cf7-a2ae-e27e5a8d764a")
-		(property "Reference" "H2"
-			(at 172.085 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Keystone Electronics 621"
-			(at 172.085 126.365 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "matterwaves:Keystone 621"
-			(at 169.545 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 169.545 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 169.545 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey PN" "36-621-ND"
-			(at 169.545 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Hammond_1457_with_picoblade"
-				(path "/9c6abd11-1aac-4f08-8b79-cac116854bcb"
-					(reference "H2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 62.23 60.96 0)
 		(unit 1)
@@ -6734,79 +6661,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 137.16 125.095 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6340eee8-e662-48d2-a40e-fc3d01c513c8")
-		(property "Reference" "H1"
-			(at 139.7 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Keystone Electronics 621"
-			(at 139.7 126.365 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "matterwaves:Keystone 621"
-			(at 137.16 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 137.16 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digikey PN" "36-621-ND"
-			(at 137.16 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Hammond_1457_with_picoblade"
-				(path "/9c6abd11-1aac-4f08-8b79-cac116854bcb"
-					(reference "H1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 26.67 151.13 90)
 		(unit 1)
@@ -7880,7 +7734,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "47R"
 			(at 237.49 90.678 90)
 			(effects
 				(font
@@ -7915,7 +7769,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C57438"
+		(property "LCSC" "C119296"
 			(at 237.49 92.71 0)
 			(effects
 				(font
