@@ -2853,15 +2853,26 @@
 		)
 		(uuid "ba869c9b-b3be-4255-ba96-da74307d10d4")
 	)
-	(text "Alternative place \nfor shunt resistor"
+	(text "Alternative place \nfor shunt resistor\nin other packages"
 		(exclude_from_sim no)
-		(at 151.13 63.5 0)
+		(at 152.908 63.754 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 		(uuid "bb49eb1f-e9ab-4188-8c8b-ca82730c6f80")
+	)
+	(text "Op amp power can be selected from +-12V and current power supply.\nUse current power supply when they are larger than +-12V to drive a large load.\nMake sure it does not exceed +-18V.\n"
+		(exclude_from_sim no)
+		(at 199.644 16.764 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c60c0b2b-db3f-4dac-839a-cd6f0aa4764c")
 	)
 	(text "JST ZH Connector"
 		(exclude_from_sim no)
@@ -2931,7 +2942,7 @@
 		(uuid "61b003e4-87f7-4fcc-91e0-07b4a44df97d")
 	)
 	(junction
-		(at 224.79 26.67)
+		(at 224.79 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "625833da-4bdd-463a-bc68-83c0aafda59a")
@@ -2973,7 +2984,7 @@
 		(uuid "7c906292-4579-4697-a1e7-674fd91a3307")
 	)
 	(junction
-		(at 215.9 34.29)
+		(at 215.9 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "968b377c-730b-47fb-bc46-5e9860915912")
@@ -2997,7 +3008,7 @@
 		(uuid "baec5627-51db-40b6-a5fc-6b43ca3bfa42")
 	)
 	(junction
-		(at 215.9 26.67)
+		(at 215.9 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c385795d-5a2c-4fad-8898-2780b0228380")
@@ -3100,7 +3111,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 34.29) (xy 224.79 34.29)
+			(xy 215.9 39.37) (xy 224.79 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3190,7 +3201,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 26.67) (xy 224.79 26.67)
+			(xy 232.41 31.75) (xy 224.79 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3370,7 +3381,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 26.67) (xy 215.9 26.67)
+			(xy 224.79 31.75) (xy 215.9 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3420,7 +3431,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 29.21) (xy 205.74 29.21)
+			(xy 208.28 34.29) (xy 205.74 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3440,7 +3451,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 26.67) (xy 215.9 26.67)
+			(xy 205.74 31.75) (xy 215.9 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3509,7 +3520,7 @@
 		(uuid "4c1461e8-7954-48c3-a2ab-8588f822fd0f")
 	)
 	(label "Vs+"
-		(at 232.41 26.67 0)
+		(at 232.41 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3549,7 +3560,7 @@
 		(uuid "8e976871-a78d-4830-b3ad-d46cd6837c2e")
 	)
 	(label "V+"
-		(at 208.28 29.21 0)
+		(at 208.28 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3600,16 +3611,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 200.66 26.67 0)
+		(at 200.66 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "035e68c9-5b51-41be-863f-0b8f7505f9ed")
 		(property "Reference" "J3"
-			(at 201.295 19.05 0)
+			(at 201.295 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3617,7 +3627,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 201.295 21.59 0)
+			(at 201.295 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3625,7 +3635,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 200.66 26.67 0)
+			(at 200.66 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3634,7 +3644,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 200.66 26.67 0)
+			(at 200.66 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3643,7 +3653,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 200.66 26.67 0)
+			(at 200.66 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4591,7 +4601,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 215.9 30.48 0)
+		(at 215.9 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4599,7 +4609,7 @@
 		(dnp no)
 		(uuid "28e2da4a-3269-46e2-b667-83d46de9dc6a")
 		(property "Reference" "C2"
-			(at 218.186 29.21 0)
+			(at 218.186 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4608,7 +4618,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 218.186 31.75 0)
+			(at 218.186 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4617,7 +4627,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
-			(at 216.8652 34.29 0)
+			(at 216.8652 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4626,7 +4636,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 30.48 0)
+			(at 215.9 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4635,7 +4645,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 215.9 30.48 0)
+			(at 215.9 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4644,7 +4654,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 215.9 30.48 0)
+			(at 215.9 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5745,7 +5755,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 205.74 24.13 270)
+		(at 205.74 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5754,7 +5764,7 @@
 		(fields_autoplaced yes)
 		(uuid "5da43d88-63f7-49c6-b103-b4e00d855ea9")
 		(property "Reference" "#PWR029"
-			(at 201.93 24.13 0)
+			(at 201.93 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5763,7 +5773,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 209.55 24.1299 90)
+			(at 209.55 29.2099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5772,7 +5782,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 24.13 0)
+			(at 205.74 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5781,7 +5791,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 24.13 0)
+			(at 205.74 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5790,7 +5800,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 205.74 24.13 0)
+			(at 205.74 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6617,7 +6627,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 34.29 0)
+		(at 215.9 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6626,7 +6636,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a7fdfbc-cc67-4740-a74f-1d8af53f9180")
 		(property "Reference" "#PWR030"
-			(at 215.9 40.64 0)
+			(at 215.9 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6635,7 +6645,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 39.37 0)
+			(at 215.9 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6643,7 +6653,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 34.29 0)
+			(at 215.9 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6652,7 +6662,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 34.29 0)
+			(at 215.9 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6661,7 +6671,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 34.29 0)
+			(at 215.9 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8209,7 +8219,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 224.79 30.48 0)
+		(at 224.79 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8217,7 +8227,7 @@
 		(dnp no)
 		(uuid "e04a7087-513d-4094-ae15-184ee9757f2c")
 		(property "Reference" "C1"
-			(at 227.33 29.21 0)
+			(at 227.33 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8226,7 +8236,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 227.33 31.75 0)
+			(at 227.33 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8235,7 +8245,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
-			(at 225.7552 34.29 0)
+			(at 225.7552 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8244,7 +8254,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.79 30.48 0)
+			(at 224.79 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8253,7 +8263,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 224.79 30.48 0)
+			(at 224.79 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8262,7 +8272,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 224.79 30.48 0)
+			(at 224.79 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)

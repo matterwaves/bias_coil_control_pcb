@@ -1,0 +1,30 @@
+Designator,Val,Package,MidX,MidY,Rotation,Layer
+C1,100n,C_Disc_D4.3mm_W1.9mm_P5.00mm,159.245,-83.82,0,top
+C2,10u,C_Disc_D4.3mm_W1.9mm_P5.00mm,159.245,-81.28,0,top
+C3,10u,C_Disc_D4.3mm_W1.9mm_P5.00mm,144.7,-93.98,180,top
+C4,100n,C_Disc_D4.3mm_W1.9mm_P5.00mm,144.7,-91.44,180,top
+C5,10p,C_Disc_D5.0mm_W2.5mm_P5.00mm,124.46,-96.6,90,top
+D1,2.5V,D_DO-35_SOD27_P10.16mm_Horizontal,106.68,-119.38,0,top
+D2,2.5V,D_DO-35_SOD27_P10.16mm_Horizontal,106.68,-114.3,0,top
+J1,Conn_01x10_Pin,JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,141,-55.5,180,top
+J2,Conn_01x10_Pin,JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical,121,-55.5,180,top
+J3,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,161.745,-76.2,-90,top
+J5,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,161.745,-71.12,-90,top
+J6,Setpoint,SMA_Molex_73251-1153_EdgeMount_Horizontal,110,-145.21,90,top
+J7,Monitor,SMA_Molex_73251-1153_EdgeMount_Horizontal,126,-145.21,90,top
+J8,Current in +,SMA_Molex_73251-1153_EdgeMount_Horizontal,142,-145.21,90,top
+J9,Current in -,SMA_Molex_73251-1153_EdgeMount_Horizontal,158,-145.21,90,top
+J10,Output,SMA_Molex_73251-1153_EdgeMount_Horizontal,174,-145.21,90,top
+J11,Conn_Coaxial,SMA_Molex_73251-1153_EdgeMount_Horizontal,190,-145.21,90,top
+Q1,TIP41C,TO-220-3_Vertical,139.46,-114.3,0,top
+Q2,TIP42C,TO-220-3_Vertical,155.46,-114.3,0,top
+R1,2R,TO-220F-2_Horizontal_TabUp,163.12,-127,-90,top
+R2,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,116.84,-134.62,90,top
+R3,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,165.1,-96.52,90,top
+R4,5.1R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,134.62,-83.82,-90,top
+R5,1k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,129.54,-86.36,-90,top
+R6,47R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,126,-124.46,-90,top
+R7,100R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,137.16,-101.6,0,top
+R8,100R,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,137.16,-106.68,0,top
+R9 (alternative footprint for shunt resistor),2.5R,R_Axial_Power_L25.0mm_W9.0mm_P30.48mm,169.62,-129.54,180,top
+U1,AD823,DIP-8_W7.62mm_Socket_LongPads,147.8,-83.82,0,top
