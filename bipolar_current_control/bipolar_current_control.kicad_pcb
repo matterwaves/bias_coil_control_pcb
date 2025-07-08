@@ -11536,7 +11536,7 @@
 		)
 		(property "Value" "AD823"
 			(at 3.81 9.95 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "353093e4-307a-4511-b77e-f231ecc6437e")
 			(effects
 				(font
