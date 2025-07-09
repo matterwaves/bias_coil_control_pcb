@@ -5,9 +5,9 @@
 	(uuid "9c6abd11-1aac-4f08-8b79-cac116854bcb")
 	(paper "A4")
 	(title_block
-		(title "???")
-		(comment 1 "Designed by Jack Roth")
-		(comment 2 "Compatible with Hammond Manufacturing series 1457")
+		(title "Bipolar Current Driver")
+		(company "UC Berkeley")
+		(comment 1 "Y. Yang")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:ADA4077-1xR"
